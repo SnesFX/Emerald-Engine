@@ -222,10 +222,10 @@
  <HintPath>C:/Nintendo/unitysdk/UnityNew3DS_1_3_0/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="tk2dSkin">
- <HintPath>C:/Users/Tler (Josiah)/Downloads/2D 3ds game/Assets/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
+ <HintPath>C:/Users/Tler/Downloads/2D 3ds game/Assets/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
  </Reference>
  <Reference Include="tk2dExternal">
- <HintPath>C:/Users/Tler (Josiah)/Downloads/2D 3ds game/Assets/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
+ <HintPath>C:/Users/Tler/Downloads/2D 3ds game/Assets/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
