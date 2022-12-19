@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 58301731874c62c41b2f41ba18b6f796
+timeCreated: 1671402398
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic spritesheet_0
+    21300002: sonic spritesheet_1
+    21300004: sonic spritesheet_2
+    21300006: sonic spritesheet_3
+    21300008: sonic spritesheet_4
+    21300010: sonic spritesheet_5
+    21300012: sonic spritesheet_6
+    21300014: sonic spritesheet_7
+    21300016: sonic spritesheet_8
+    21300018: sonic spritesheet_9
+    21300020: sonic spritesheet_10
+    21300022: sonic spritesheet_11
+    21300024: sonic spritesheet_12
+    21300026: sonic spritesheet_13
+    21300028: sonic spritesheet_14
+    21300030: sonic spritesheet_15
+    21300032: sonic spritesheet_16
+    21300034: sonic spritesheet_17
+    21300036: sonic spritesheet_18
+    21300038: sonic spritesheet_19
+    21300040: sonic spritesheet_20
+    21300042: sonic spritesheet_21
+    21300044: sonic spritesheet_22
+    21300046: sonic spritesheet_23
+    21300048: sonic spritesheet_24
+    21300050: sonic spritesheet_25
+    21300052: sonic spritesheet_26
+    21300054: sonic spritesheet_27
+    21300056: sonic spritesheet_28
+    21300058: sonic spritesheet_29
+    21300060: sonic spritesheet_30
+    21300062: sonic spritesheet_31
+    21300064: sonic spritesheet_32
+    21300066: sonic spritesheet_33
+    21300068: sonic spritesheet_34
+    21300070: sonic spritesheet_35
+    21300072: sonic spritesheet_36
+    21300074: sonic spritesheet_37
+    21300076: sonic spritesheet_38
+    21300078: sonic spritesheet_39
+    21300080: sonic spritesheet_40
+    21300082: sonic spritesheet_41
+    21300084: sonic spritesheet_42
+    21300086: sonic spritesheet_43
+    21300088: sonic spritesheet_44
+    21300090: sonic spritesheet_45
+    21300092: sonic spritesheet_46
+    21300094: sonic spritesheet_47
+    21300096: sonic spritesheet_48
+    21300098: sonic spritesheet_49
+    21300100: sonic spritesheet_50
+    21300102: sonic spritesheet_51
+    21300104: sonic spritesheet_52
+    21300106: sonic spritesheet_53
+    21300108: sonic spritesheet_54
+    21300110: sonic spritesheet_55
+    21300112: sonic spritesheet_56
+    21300114: sonic spritesheet_57
+    21300116: sonic spritesheet_58
+    21300118: sonic spritesheet_59
+    21300120: sonic spritesheet_60
+    21300122: sonic spritesheet_61
+    21300124: sonic spritesheet_62
+    21300126: sonic spritesheet_63
+    21300128: sonic spritesheet_64
+    21300130: sonic spritesheet_65
+    21300132: sonic spritesheet_66
+    21300134: sonic spritesheet_67
+    21300136: sonic spritesheet_68
+    21300138: sonic spritesheet_69
+    21300140: sonic spritesheet_70
+    21300142: sonic spritesheet_71
+    21300144: sonic spritesheet_72
+    21300146: sonic spritesheet_73
+    21300148: sonic spritesheet_74
+    21300150: sonic spritesheet_75
+    21300152: sonic spritesheet_76
+    21300154: sonic spritesheet_77
+    21300156: sonic spritesheet_78
+    21300158: sonic spritesheet_79
+    21300160: sonic spritesheet_80
+    21300162: sonic spritesheet_81
+    21300164: sonic spritesheet_82
+    21300166: sonic spritesheet_83
+    21300168: sonic spritesheet_84
+    21300170: sonic spritesheet_85
+    21300172: sonic spritesheet_86
+    21300174: sonic spritesheet_87
+    21300176: sonic spritesheet_88
+    21300178: sonic spritesheet_89
+    21300180: sonic spritesheet_90
+    21300182: sonic spritesheet_91
+    21300184: sonic spritesheet_92
+    21300186: sonic spritesheet_93
+    21300188: sonic spritesheet_94
+    21300190: sonic spritesheet_95
+    21300192: sonic spritesheet_96
+    21300194: sonic spritesheet_97
+    21300196: sonic spritesheet_98
+    21300198: sonic spritesheet_99
+    21300200: sonic spritesheet_100
+    21300202: sonic spritesheet_101
+    21300204: sonic spritesheet_102
+    21300206: sonic spritesheet_103
+    21300208: sonic spritesheet_104
+    21300210: sonic spritesheet_105
+    21300212: sonic spritesheet_106
+    21300214: sonic spritesheet_107
+    21300216: sonic spritesheet_108
+    21300218: sonic spritesheet_109
+    21300220: sonic spritesheet_110
+    21300222: sonic spritesheet_111
+    21300224: sonic spritesheet_112
+    21300226: sonic spritesheet_113
+    21300228: sonic spritesheet_114
+    21300230: sonic spritesheet_115
+    21300232: sonic spritesheet_116
+    21300234: sonic spritesheet_117
+    21300236: sonic spritesheet_118
+    21300238: sonic spritesheet_119
+    21300240: sonic spritesheet_120
+    21300242: sonic spritesheet_121
+    21300244: sonic spritesheet_122
+    21300246: sonic spritesheet_123
+    21300248: sonic spritesheet_124
+    21300250: sonic spritesheet_125
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Nintendo 3DS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 500
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 500
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 518
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 500
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 518
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 499
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 517
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 499
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 500
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 500
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 500
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 500
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 500
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 500
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 492
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 499
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 499
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 499
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 447
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 447
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 447
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 447
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 447
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 448
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 448
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 448
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 408
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 408
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 407
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 408
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 410
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 408
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 408
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 408
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 408
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 408
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 409
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 408
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 362
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 362
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 362
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 363
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 326
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 327
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 327
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 327
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 327
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 326
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 326
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 326
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 325
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 292
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 292
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 292
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 292
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 292
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 251
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 251
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 251
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 251
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 208
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 208
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 208
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 154
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 154
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 155
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 155
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 154
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 156
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 157
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 110
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 110
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 110
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 111
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 56
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 42
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 44
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 42
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 35
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 28
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 28
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sonic spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
