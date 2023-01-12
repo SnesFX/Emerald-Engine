@@ -16,6 +16,10 @@
 * Q: Will there be hyper and super forms?
 * A: Yes, along with Dark forms.
 
+# Warning or something lmfao
+
+* This is still a heavy w.i.p. like 99.9% of the shit doesn't even work yet lmao, so like don't get mad at me when you download this and expect it to be a full   fledged engine that works and functions.
+
 # Credits
 
 * [Zero0xx/Ty_1991](https://twitter.com/snesfx) - Whole ass engine
