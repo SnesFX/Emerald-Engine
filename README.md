@@ -12,7 +12,7 @@
 
 # Credits
 
-* [Zero0xx/Ty_1991](https://twitter.com/snesfx) - Whole ass engine
+* [SnesFX](https://twitter.com/snesfx) - Whole ass engine
 
 * Zeper and Balla - Sprite Sheet!
 
